@@ -1,3 +1,6 @@
 data/
 data_split/
 ai-engine/venv/
+client/node_modules/
+fashion_style_model.h5
+*.h5

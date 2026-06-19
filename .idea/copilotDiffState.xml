@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CopilotDiffPersistence">
+    <option name="pendingDiffs">
+      <map>
+        <entry key="$PROJECT_DIR$/fashion-complementer-ai/server/requirements.txt">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/fashion-complementer-ai/server/requirements.txt" />
+              <option name="originalContent" value="fastapi&gt;=0.111.0&#10;uvicorn&gt;=0.30.1&#10;python-multipart&gt;=0.0.9&#10;tensorflow&gt;=2.15.0&#10;opencv-python&gt;=4.9.0.80&#10;numpy&gt;=1.26.4&#10;pymongo&gt;=4.7.2&#10;python-dotenv&gt;=1.0.1&#10;" />
+              <option name="updatedContent" value="fastapi&gt;=0.111.0&#10;uvicorn&gt;=0.30.1&#10;python-multipart&gt;=0.0.9&#10;tensorflow&gt;=2.20.0&#10;opencv-python&gt;=4.9.0.80&#10;numpy&gt;=1.26.4&#10;pymongo&gt;=4.7.2&#10;python-dotenv&gt;=1.0.1&#10;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
